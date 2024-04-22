@@ -1,0 +1,9 @@
+
+#popular{
+    font-size: 3rem;
+    font-weight:500;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#cad{
+    display: flex;
+}
